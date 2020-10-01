@@ -1,7 +1,7 @@
 /* 	Tinashe Changunda 2984770
 	I recommend using Lucida Console font, font size between 12-16, white text on black background */
 import java.util.*;
-class Assignment_02{ 
+class ZombieDice{ 
 	public static void main(String[] args){
 		Scanner kb = new Scanner(System.in);
 		System.out.print("\n\n\n\n\n\n\n\n\n\n\n");
